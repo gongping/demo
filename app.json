@@ -1,0 +1,9 @@
+{
+ "files": [],
+ "scenes": [
+  "detail",
+  "homepage"
+ ],
+ "theme": "base",
+ "modules": ["ime"]
+}
